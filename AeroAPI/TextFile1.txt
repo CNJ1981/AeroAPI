@@ -1,0 +1,7 @@
+﻿Bom dia
+
+1. Não foi feito nenhuma validação de dados;
+2. Não foi feito tratamento de erros;
+3. Não foi feito tratamento de mensagens (manipulação de respostas HTTP)
+4. Não foi implementada segurança - no authentication
+5. A questão de segurança é necessário garantir autenticação e autorização. Podemos autorizar usando o protocolo OWIN e autenticar via Token. (apenas uma das formas)
